@@ -3,7 +3,7 @@ This is my 3D minecraft cube project. Essentially, the aim of the project is to 
 
 <h3> Below is a basic description of each file </h3>
 <ul>
-  <li>*[Main.cpp](https://github.com/Joseph112358/Opengl-3D-minecraft-cube/blob/main/Main.cpp)* is simply the "authoritative" file, from which the all other files are called</li>
+  <li>*[Main.cpp]: https://github.com/Joseph112358/Opengl-3D-minecraft-cube/blob/main/Main.cpp)* is simply the "authoritative" file, from which the all other files are called</li>
   
 </ul>
   
